@@ -14,9 +14,9 @@ option='y'
 while(option=='y' or option=='Y'):
     cgpa=float(input("Enter the CGPA score: "))
     testScore=int(input("Enter the admission test score: "))
-    if(cgpa>3 and testScore>=60):
+    if(cgpa>=3 and testScore>=60):
         print("Application Accepted!")
-    elif(cgpa<=3 and testScore>=80):
+    elif(cgpa<3 and testScore>=80):
         print("Application Accepted!")
     else:
         print("Application Rejected!")
