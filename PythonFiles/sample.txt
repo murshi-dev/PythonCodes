@@ -1,0 +1,1 @@
+Sample text entered in the text filenew text appended to the text file

@@ -1,0 +1,5 @@
+Product List
+sugar: RM 12
+salt: RM 5
+flour: RM 3
+cookies: RM 25
