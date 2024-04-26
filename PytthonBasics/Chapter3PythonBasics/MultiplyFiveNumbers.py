@@ -8,6 +8,6 @@ num3=float(input("Enter the third number: "))
 num4=float(input("Enter the fourth number: "))
 num5=float(input("Enter the fifth number: "))
 #process
-product=num1*num2*num3*num4*num5
+product = num1 * num2 * num3 * num4 * num5
 #output
 print("Product is: ",product)
